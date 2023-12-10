@@ -1,7 +1,7 @@
 site_name: CZ Net Data Best Practices
 repo_name: cznethub/data-best-practices
 repo_url: https://github.com/abnerbog/cznethub-data-best-practices
-edit_uri: ""
+edit_uri: https://papaya-kitten-63488c.netlify.app/admin/
 
 theme:
   name: "material"
