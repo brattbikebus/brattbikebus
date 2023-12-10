@@ -1,7 +1,7 @@
 site_name: CZ Net Data Best Practices
 repo_name: cznethub/data-best-practices
 repo_url: https://github.com/abnerbog/cznethub-data-best-practices
-edit_url: admin
+edit_uri: admin
 
 theme:
   name: "material"
