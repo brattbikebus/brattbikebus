@@ -1,15 +1,13 @@
 backend:
   name: git-gateway
-  repo: abnerbog/cznethub-data-best-practices
   branch: develop
 
-public_folder: "site"
-media_folder: "site/assets"
+media_folder: "media"
 publish_mode: editorial_workflow
 
 collections:
   - name: "doc"
-    label: "Doc"
+    label: "Documents"
     folder: "docs"
     create: true
     slug: "{{slug}}"
