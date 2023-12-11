@@ -1,3 +1,7 @@
+---
+title: Sharing Environmental Time Series Data
+---
+
 # Best Practices for Sharing Environmental Time Series Data
 
 ## What are environmental time series data?
@@ -49,9 +53,9 @@ Best practices for formatting your time series data with CSV files include:
 
 The following examples are provided:
 
-[Example 1 – Single file with one time series](examples/Example1_LR_Mendon_AA_WaterTemp_EXO_SourceID_1_QC_1.csv): Use this format when you want to include a single time series within one table in a single file. The time series may be of any length in the file. Site, variable, method, source, data level, and qualifier metadata are contained in the file header.
+[Example 1 – Single file with one time series](examples/time_series_data/Example1_LR_Mendon_AA_WaterTemp_EXO_SourceID_1_QC_1.csv): Use this format when you want to include a single time series within one table in a single file. The time series may be of any length in the file. Site, variable, method, source, data level, and qualifier metadata are contained in the file header.
 
-[Example 2 – Single file with multiple time series](examples/Example2_LR_Mendon_AA_SourceID_1_QC_0_Year_2022.csv): Use this format when you want to include multiple time series within the same table in a single file. The time series may be of any length in the file, but consider that your table may be sparsely populated if your time series do not begin and end at the same time. Values for each time series should be included in a separate column in the data table. All data columns should share the same timestamps.
+[Example 2 – Single file with multiple time series](examples/time_series_data/Example2_LR_Mendon_AA_SourceID_1_QC_0_Year_2022.csv): Use this format when you want to include multiple time series within the same table in a single file. The time series may be of any length in the file, but consider that your table may be sparsely populated if your time series do not begin and end at the same time. Values for each time series should be included in a separate column in the data table. All data columns should share the same timestamps.
 
 ### Option 2: SQLite Database
 

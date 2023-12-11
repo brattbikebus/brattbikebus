@@ -1,3 +1,7 @@
+---
+title: Sharing Geospatial Data
+---
+
 # Best Practices for Sharing Geospatial Data
 
 ## What are geospatial data?

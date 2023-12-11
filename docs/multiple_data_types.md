@@ -1,3 +1,7 @@
+---
+title: Sharing Multiple Data Types Together
+---
+
 # Best Practices for Sharing Multiple Data Types Together
 
 ## Why would you want to share multiple types of data together?

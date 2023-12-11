@@ -1,3 +1,7 @@
+---
+title: Sharing Laboratory Analytical Data
+---
+
 # Best Practices for Sharing Laboratory Analytical Data
 
 ## Sample Metadata and Collection Management with SESAR
