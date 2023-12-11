@@ -34,8 +34,8 @@ nav:
   - Contribute: contribute.md
   - Data Publication Guidance: data_publication_guidance.md
   - Best Practices:
-      Sharing Geospatial Data: docs/geospatial_data.md
-      Sharing Multiple Data Types Together: docs/multiple_data_types.md
-      Sharing Samples and Sample Metadata: docs/registering_samples.md
-      Sharing Laboratory Analytical Data: docs/sample_data.md
-      Sharing Environmental Time Series Data: docs/time_series_data.md
+    - Sharing Geospatial Data: geospatial_data.md
+    - Sharing Multiple Data Types Together: multiple_data_types.md
+    -  Sharing Samples and Sample Metadata: registering_samples.md
+    -  Sharing Laboratory Analytical Data: sample_data.md
+    -  Sharing Environmental Time Series Data: time_series_data.md
