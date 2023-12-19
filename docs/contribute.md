@@ -4,9 +4,9 @@ date: 2023-12-19T15:10:42.604Z
 ---
 # Contribute
 
-We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
+Abner We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
 
-1. Navigate to [GitHub repository](https://github.com/cznethub/data-best-practices), fork the repository, make edits or add content, and then make a pull request. Hello, testing this from Jordan
+1. Navigate to [GitHub repository](https://github.com/cznethub/data-best-practices), fork the repository, make edits or add content, and then make a pull request.
 2. Edit the best practice documents directly in GitHub and submit a pull request using the steps below
 3. [Create an issue](https://github.com/cznethub/data-best-practices/issues) in the GitHub Repository and post your suggested edits or content in that issue.
 4. Send us an email at [help@cuahsi.org](mailto:help@cuahsi.org) with your suggested edits or content
