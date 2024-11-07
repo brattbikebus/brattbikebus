@@ -1,18 +1,20 @@
 ---
 title: Sharing Laboratory Analytical Data
+date: 2024-11-07T16:34:00.000Z
 ---
-
 # Best Practices for Sharing Laboratory Analytical Data
 
 ## Sample Metadata and Collection Management with SESAR
 
 See the best practices document for [registering samples and sample metadata](registering_samples.md).
 
+Something else.
+
 ## Repositories for Sharing Data Derived from Samples
 
 We recommend depositing data derived from samples in the [EarthChem Library](https://www.earthchem.org/ecl/) repository. You can submit your data to EarthChem directly through the submission page for EarthChem Library (ECL) in this Data Submission Portal.
 
-If you need help with using the ECL, go to [https://www.earthchem.org/resources/support/earthchem-library-documentation/](https://www.earthchem.org/resources/support/earthchem-library-documentation/).
+If you need help with using the ECL, go to <https://www.earthchem.org/resources/support/earthchem-library-documentation/>.
 
 ## Metadata for Describing Data Derived From Samples
 
@@ -41,6 +43,7 @@ The following recommendations are not meant to represent an exhaustive list but 
 * **Vocabularies for describing sample data**: A list of recommended terms can ve accessed at https://www.earthchem.org/ecl/vocabularies/.
 * **Release Date**: By default the release date is set to the date of submission. If this is not desirable, you may select a release date within the next two years. Every approved ECL dataset receives a DOI and is searchable in the ECL, even if the release date has not yet been reached. This allows investigators to submit datasets in compliance with data management policies of funding agencies and journals without releasing the actual data immediately.
 * **Licenses**: Use of digital materials obtained from the EarthChem Library is licensed under varying Creative Commons licenses that can be selected by the data contributor. EarthChem Library strongly recommends use of the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. The license that is applicable for a given dataset can be found on its landing page. Contributors have 4 Creative Commons data file license options to choose from:
+
   * [Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0 (default)](https://creativecommons.org/licenses/by-sa/4.0/)
   * [Creative Commons – Attribution 4.0 International – CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
   * [Attribution-NonCommercial-ShareAlike 4.0 International — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -48,4 +51,3 @@ The following recommendations are not meant to represent an exhaustive list but 
   * [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * **Funding Information**: We strongly encourage US-based researchers to link their NSF award numbers with their ECL datasets. This will allow tracking of datasets by Award number and show compliance with Data Management policies of funding agencies.
 * **Related Publications**: It is very important for users accessing your data to be able to easily reach and credit your full publication.
-
