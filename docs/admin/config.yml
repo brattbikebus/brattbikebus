@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: develop
+  repo: devincowan/docs
+  auth_scope: repo
+  open_authoring: true
 
 public_folder: "site"
 media_folder: "site/assets"
