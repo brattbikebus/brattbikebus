@@ -1,7 +1,7 @@
 site_name: CZ Net Data Best Practices
-repo_name: cznethub/data-best-practices
-repo_url: https://github.com/abnerbog/cznethub-data-best-practices
-edit_uri_template: 'https://cznethub-data-best-practices.netlify.app/admin'
+repo_name: devincowan/docs
+repo_url: https://github.com/devincowan/docs
+edit_uri_template: 'https://cuahsidocs.netlify.app//admin'
 
 theme:
   name: "material"
