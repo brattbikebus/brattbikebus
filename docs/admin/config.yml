@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: develop
   repo: devincowan/docs
   auth_scope: repo
