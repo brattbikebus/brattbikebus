@@ -5,8 +5,8 @@ backend:
   auth_scope: repo
   open_authoring: true
 
-public_folder: "site"
-media_folder: "site/assets"
+public_folder: "docs/.vitepress/dist"
+media_folder: "docs/public"
 publish_mode: editorial_workflow
 
 collections:

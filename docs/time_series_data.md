@@ -69,7 +69,7 @@ Can query the SQLite file using structured query language to retrieve subsets or
 Can use HydroShare’s Data Series Viewer app to visualize the data in the SQLite database in a web browser using HydroShare’s “Open With” functionality
 Nice tools exist for working with SQLite files in both Python and R
 
-[Example 3 - ODM2 SQLite file](examples/Example3_ODM2_single_variable_multi_site.sqlite) - An example ODM2 SQLite file is provided here. This file contains time series data for water temperature for multiple data collection sites within the Little Bear River in Utah, USA.
+[Example 3 - ODM2 SQLite file](examples/time_series_data/Example3_ODM2_single_variable_multi_site.sqlite) - An example ODM2 SQLite file is provided here. This file contains time series data for water temperature for multiple data collection sites within the Little Bear River in Utah, USA.
 
 ## Organizing Data for Sharing
 
