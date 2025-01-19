@@ -4,7 +4,7 @@ date: 2023-12-19T15:10:42.604Z
 ---
 # Contribute
 
-![](site/garbage_truck.png "GARBAGE")
+!["CRAWLER"](crawler.jpg)
 
 Abner We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
 
