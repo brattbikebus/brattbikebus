@@ -22,6 +22,7 @@ export default defineConfig({
           { text: 'Sharing Environmental Time Series Data', link: 'time_series_data.md' },
 
       ] },
+      { text: 'Hello', link: 'hello.md' },
     ],
 
     socialLinks: [
