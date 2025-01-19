@@ -1,4 +1,4 @@
 [build]
 base = "."
-publish = "site"
-command = "mkdocs build -d site" 
+publish = "docs/.vitepress/dist"
+command = "npm run docs:build" 
