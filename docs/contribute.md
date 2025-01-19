@@ -4,6 +4,8 @@ date: 2023-12-19T15:10:42.604Z
 ---
 # Contribute!
 
+![](site/garbage_truck.png "GARBAGE")
+
 Abner We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
 
 1. Navigate to [GitHub repository](https://github.com/cznethub/data-best-practices), fork the repository, make edits or add content, and then make a pull request.
