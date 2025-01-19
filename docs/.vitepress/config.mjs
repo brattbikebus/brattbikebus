@@ -33,6 +33,10 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+    // https://vitepress.dev/reference/default-theme-edit-link#site-level-config
+    editLink: {
+      pattern: '/admin/#/edit/docs/:path',
+    }
   },
   ignoreDeadLinks: true,
 })
