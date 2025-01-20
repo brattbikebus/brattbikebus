@@ -35,7 +35,11 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-edit-link#site-level-config
     editLink: {
-      pattern: '/admin/#/edit/docs/:path',
+      pattern: ({ filePath }) => {
+        // trim the .md suffix
+        const path = filePath.replace(/\.md$/, '')
+        return `/admin/#/edit/doc/${path}`
+      }
     }
   },
   ignoreDeadLinks: true,
