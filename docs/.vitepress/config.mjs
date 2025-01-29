@@ -38,7 +38,8 @@ export default defineConfig({
       pattern: ({ filePath }) => {
         // trim the .md suffix
         const path = filePath.replace(/\.md$/, '')
-        return `/admin/#/edit/doc/${path}`
+        const origin = location.origin
+        return `${origin}/admin/#/edit/doc/${path}`
       }
     }
   },
