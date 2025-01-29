@@ -4,9 +4,7 @@ date: 2023-12-19T15:10:42.604Z
 ---
 # Contribute
 
-!["CRAWLER"](/crawler.jpg)
-
-Abner We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
+We welcome your contributions to these best practice documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
 
 1. Navigate to [GitHub repository](https://github.com/cznethub/data-best-practices), fork the repository, make edits or add content, and then make a pull request.
 2. Edit the best practice documents directly in GitHub and submit a pull request using the steps below
