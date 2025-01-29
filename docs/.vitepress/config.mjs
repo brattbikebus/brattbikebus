@@ -22,7 +22,12 @@ export default defineConfig({
           { text: 'Sharing Environmental Time Series Data', link: 'time_series_data.md' },
 
       ] },
-      { text: 'Hello', link: 'hello.md' },
+      { text: 'Vitepress Examples', 
+        items: [ 
+          { text: 'Embedded Vue', link: 'examples/vitepress/vue.md' },
+          { text: 'Vitepress API', link: 'examples/vitepress/api-examples.md' },
+          { text: 'Markdown Examples', link: 'examples/vitepress/markdown-examples.md' },
+      ] },
     ],
 
     socialLinks: [
