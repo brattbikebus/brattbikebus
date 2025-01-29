@@ -1,6 +1,6 @@
 import { loadEnv } from 'vitepress'
 // load env that are exported in the build process
-const env = loadEnv()
+const env = loadEnv('', process.cwd())
 
 export const APP_BASE = env.VITE_APP_BASE || '/'
 
