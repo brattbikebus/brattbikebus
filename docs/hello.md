@@ -1,5 +1,7 @@
 ---
 hello: world
+title: Embeded Vue Test
+date: 2025-01-29T09:29:00.000Z
 ---
 
 <script setup>
