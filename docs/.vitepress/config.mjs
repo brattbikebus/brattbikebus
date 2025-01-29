@@ -1,10 +1,5 @@
 import { defineConfig, loadEnv } from 'vitepress'
 
-const env = loadEnv('', process.cwd())
-const APP_BASE = env.VITE_APP_BASE || '/'
-let APP_FULL_URL_IN = env.VITE_APP_FULL_URL || 'https://cuahsi-vitepress-example.netlify.app'
-const APP_FULL_URL = APP_FULL_URL_IN.endsWith('/') ? APP_FULL_URL_IN : `${APP_FULL_URL_IN}/`
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd())
@@ -12,8 +7,8 @@ export default defineConfig(({ mode }) => {
     title: "CZ Net Data Best Practices",
     description: "CZ Net Data Best Practices",
     // https://vitepress.dev/guide/deploy#setting-a-public-base-path
-    // set the base to /docs/ for GitHub Pages
-    base: APP_BASE,
+    // set the base for GitHub Pages
+    // base: env.VITE_APP_BASE || '/',
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
@@ -50,6 +45,9 @@ export default defineConfig(({ mode }) => {
         pattern: ({ filePath }) => {
           // trim the .md suffix
           const path = filePath.replace(/\.md$/, '')
+          // TODO: use env vars
+          // const APP_FULL_URL = env.VITE_APP_FULL_URL || 'https://cuahsi-vitepress-example.netlify.app'
+          const APP_FULL_URL = 'https://cuahsi-vitepress-example.netlify.app'
           return `${APP_FULL_URL}/admin/#/edit/doc/${path}`
         }
       }
