@@ -38,8 +38,7 @@ export default defineConfig({
       pattern: ({ filePath }) => {
         // trim the .md suffix
         const path = filePath.replace(/\.md$/, '')
-        const origin = location.origin
-        return `${origin}/admin/#/edit/doc/${path}`
+        return `https://cuahsidocs.netlify.app/admin/#/edit/doc/${path}`
       }
     }
   },
