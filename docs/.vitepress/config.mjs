@@ -1,6 +1,9 @@
-import { defineConfig } from 'vitepress'
-import { APP_BASE, APP_FULL_URL } from './constants'
+import { defineConfig, loadEnv } from 'vitepress'
 
+const env = loadEnv('', process.cwd())
+const APP_BASE = env.VITE_APP_BASE || '/'
+let APP_FULL_URL_IN = env.VITE_APP_FULL_URL || 'https://cuahsi-vitepress-example.netlify.app'
+const APP_FULL_URL = APP_FULL_URL_IN.endsWith('/') ? APP_FULL_URL_IN : `${APP_FULL_URL_IN}/`
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
