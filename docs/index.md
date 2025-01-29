@@ -2,7 +2,7 @@
 title: Home
 date: 2024-11-07T08:57:00.000Z
 ---
-# Example Docs site built using Vitepress and Decap CMS. Deployed using Netlify
+# Example Docs site built using Vitepress and Decap CMS. Deployed using Netlify!
 
 ## .md files scraped from: Critical Zone Collaborative Network Data Best Practices
 
