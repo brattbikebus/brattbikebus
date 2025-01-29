@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import { APP_BASE, APP_FULL_URL } from './constants'
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,7 +8,7 @@ export default defineConfig({
   description: "CZ Net Data Best Practices",
   // https://vitepress.dev/guide/deploy#setting-a-public-base-path
   // set the base to /docs/ for GitHub Pages
-  // base: '/docs/',
+  base: APP_BASE,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -43,7 +45,7 @@ export default defineConfig({
       pattern: ({ filePath }) => {
         // trim the .md suffix
         const path = filePath.replace(/\.md$/, '')
-        return `https://cuahsidocs.netlify.app/admin/#/edit/doc/${path}`
+        return `${APP_FULL_URL}/admin/#/edit/doc/${path}`
       }
     }
   },
