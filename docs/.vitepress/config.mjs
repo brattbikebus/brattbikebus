@@ -4,8 +4,8 @@ import { defineConfig, loadEnv } from 'vitepress'
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd())
   return {
-    title: "CZ Net Data Best Practices",
-    description: "CZ Net Data Best Practices",
+    title: "Example Vitepress Docs Site",
+    description: "Documentation site built using Vitepress, Decap CMS, and Netlify",
     // https://vitepress.dev/guide/deploy#setting-a-public-base-path
     // set the base for GitHub Pages
     // base: env.VITE_APP_BASE || '/',

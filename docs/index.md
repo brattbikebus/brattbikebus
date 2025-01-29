@@ -2,7 +2,9 @@
 title: Home
 date: 2024-11-07T08:57:00.000Z
 ---
-# Critical Zone Collaborative Network Data Best Practices
+# Example Docs site built using Vitepress and Decap CMS. Deployed using Netlify
+
+## .md files scraped from: Critical Zone Collaborative Network Data Best Practices
 
 This repository contains best practices developed by the Critical Zone Collaborative Network (CZ Net) for sharing data related to the Critical Zone.
 
