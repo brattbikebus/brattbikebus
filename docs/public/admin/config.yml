@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: develop
-  repo: devincowan/docs
+  repo: CUAHSI/vitepress-example
   auth_scope: repo
   open_authoring: true
 

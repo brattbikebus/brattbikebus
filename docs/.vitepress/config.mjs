@@ -33,7 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/devincowan/docs' }
+      { icon: 'github', link: 'https://github.com/CUAHSI/vitepress-example' }
     ],
 
     // https://vitepress.dev/reference/default-theme-search#local-search
