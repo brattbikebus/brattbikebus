@@ -1,4 +1,4 @@
-# VitePress Example Project
+# Brattleboro Bike Bus
 
-This is an example project using [VitePress](https://vitepress.vuejs.org/), [Decap CMS](https://decapcms.org/), and [Netlify](https://www.netlify.com/).
+Bike bus project using [VitePress](https://vitepress.vuejs.org/), [Decap CMS](https://decapcms.org/), and [Netlify](https://www.netlify.com/).
 
