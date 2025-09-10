@@ -1,6 +1,0 @@
----
-title: Team
----
-
-# Team
-

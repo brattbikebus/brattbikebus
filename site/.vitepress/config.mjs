@@ -14,16 +14,16 @@ export default defineConfig(({ mode }) => {
       nav: [
         { text: "Home", link: "index.md" },
         { text: "Events", link: "events.md" },
+        { text: "Contact", link: "contact.md" },
         {
-          text: "About",
+          text: "Learn More",
           items: [
-            { text: "Our Team", link: "team.md" },
-            { text: "Contact Us", link: "contact.md" },
+            { text: "Learn more about bike buses", link: "learn.md" },
+            { text: "News", link: "news.md" },
           ],
         },
         { text: "Contribute", link: "contribute.md" },
       ],
-
       socialLinks: [
         { icon: "github", link: "https://github.com/brattbikebus/info" },
       ],
