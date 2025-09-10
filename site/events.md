@@ -4,3 +4,4 @@ title: Events
 
 # Events
 
+<Calendar />

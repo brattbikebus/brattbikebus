@@ -6,5 +6,9 @@
   },
   "devDependencies": {
     "vitepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "vuetify": "^3.10.0"
   }
 }
