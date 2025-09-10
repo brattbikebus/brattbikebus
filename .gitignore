@@ -2,7 +2,6 @@
 node_modules
 /dist
 venv/
-site/
 
 # local env files
 .env.local
@@ -27,4 +26,4 @@ pnpm-debug.log*
 
 # vitepress
 site/.vitepress/dist
-docs/.vitepress/cache
+site/.vitepress/cache
