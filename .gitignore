@@ -26,5 +26,5 @@ pnpm-debug.log*
 \#*\#
 
 # vitepress
-docs/.vitepress/dist
+site/.vitepress/dist
 docs/.vitepress/cache
