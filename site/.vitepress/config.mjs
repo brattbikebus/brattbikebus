@@ -4,6 +4,17 @@ import { defineConfig, loadEnv } from "vitepress";
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd());
   return {
+    vite: {
+      css: {
+        postcss: {},
+      },
+      optimizeDeps: {
+        include: ["vuetify"],
+      },
+      ssr: {
+        noExternal: ["vuetify"],
+      },
+    },
     title: "Bike Bus Brattleboro",
     description: "A project to support a bike bus in Brattleboro, VT",
     // https://vitepress.dev/guide/deploy#setting-a-public-base-path
