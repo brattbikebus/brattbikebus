@@ -7,10 +7,9 @@
         :event-color="getEventColor"
         :event-overlap-mode="mode"
         :event-overlap-threshold="30"
-        :events="events"
+        :events="props.events"
         :type="type"
         :weekdays="weekday"
-        @change="getEvents"
       ></VCalendar>
     </v-sheet>
   </div>
@@ -19,6 +18,8 @@
 <script setup>
   import { ref } from 'vue'
   import { VCalendar } from 'vuetify/labs/VCalendar'
+
+  const props = defineProps(['events'])
 
   const type = ref('month')
   const types = ['month', 'week', 'day', '4day']
@@ -32,7 +33,6 @@
     { title: 'Mon, Wed, Fri', value: [1, 3, 5] },
   ]
   const value = ref('')
-  const events = ref([])
   const colors = ['blue', 'indigo', 'deep-purple', 'cyan', 'green', 'orange', 'grey-darken-1']
   const names = ['Meeting', 'Holiday', 'PTO', 'Travel', 'Event', 'Birthday', 'Conference', 'Party']
 
@@ -70,5 +70,4 @@
   function getEventColor (event) {
     return event.color
   }
-  console.log(events)
 </script>
