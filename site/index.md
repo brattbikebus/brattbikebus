@@ -6,7 +6,7 @@ date: 2024-11-07T08:57:00.000Z
 
 Welcome to the Brattleboro Bike Bus!
 
-We are just getting started, so WOWZER, you should reach out if you are excited about bikes and live in the Brattleboro, VT area!
+We are just getting started -- you should reach out if you are excited about bikes and live in the Brattleboro, VT area!
 
 ## Contributing Content
 
