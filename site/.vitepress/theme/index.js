@@ -23,7 +23,7 @@ export default {
     // Use Vuetify
     app.use(vuetify)
     
-    // Register your custom component
+    // Register custom components
     app.component('Calendar', Calendar)
   }
 }
