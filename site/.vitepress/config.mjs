@@ -24,8 +24,9 @@ export default defineConfig(({ mode }) => {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
         { text: "Home", link: "index.md" },
-        { text: "Events", link: "events.md" },
+        { text: "Route", link: "route.md" },
         { text: "Contact", link: "contact.md" },
+        { text: "Events", link: "events.md" },
         {
           text: "Learn More",
           items: [
