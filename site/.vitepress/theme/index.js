@@ -7,6 +7,7 @@ import 'vuetify/styles'
 
 // Import your custom components
 import Calendar from './components/Calendar.vue'
+import Map from './components/Map.vue'
 
 export default {
   ...DefaultTheme,
@@ -23,7 +24,8 @@ export default {
     // Use Vuetify
     app.use(vuetify)
     
-    // Register your custom component
+    // Register custom components
     app.component('Calendar', Calendar)
+    app.component('Map', Map)
   }
 }
