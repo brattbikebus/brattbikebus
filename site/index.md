@@ -4,7 +4,7 @@ date: 2024-11-07T08:57:00.000Z
 ---
 # Brattleboro Bike Bus
 
-Welcome to the Brattleboro Bike Bus!
+## Welcome to the Brattleboro Bike Bus!
 
 We are just getting started -- please reach out if you are excited about bikes and live in the Brattleboro, VT area!
 
