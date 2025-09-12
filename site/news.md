@@ -1,5 +1,6 @@
 ---
 title: News
+layout: home
 date: 2025-09-11T15:45:00.000-04:00
 ---
 # News

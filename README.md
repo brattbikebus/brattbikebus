@@ -4,3 +4,9 @@
 
 Bike bus project using [VitePress](https://vitepress.vuejs.org/), [Decap CMS](https://decapcms.org/), and [Netlify](https://www.netlify.com/).
 
+
+## License
+
+The content in this repository is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license. 
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)

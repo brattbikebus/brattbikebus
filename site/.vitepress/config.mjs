@@ -22,6 +22,9 @@ export default defineConfig(({ mode }) => {
     // base: env.VITE_APP_BASE || '/',
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
+       head: [
+        [ 'link', { rel: 'icon', href: '/favicon.ico' } ],
+      ],
       nav: [
         { text: "Home", link: "index.md" },
         { text: "Route", link: "route.md" },
