@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: home
+layout: doc
 ---
 # Events
 

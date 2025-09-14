@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: home
+layout: doc
 ---
 
 # Contact

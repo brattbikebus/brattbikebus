@@ -1,6 +1,6 @@
 ---
 title: Learn
-layout: home
+layout: doc
 ---
 
 # Learn more about Bike Buses

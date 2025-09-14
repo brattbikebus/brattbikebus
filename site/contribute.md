@@ -1,7 +1,7 @@
 ---
 title: Contribute
 date: 2023-12-19T15:10:42.604Z
-layout: home
+layout: doc
 ---
 # Contribute
 

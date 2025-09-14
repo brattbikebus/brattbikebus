@@ -1,9 +1,7 @@
 ---
 title: Route
 date: 2025-09-11T15:46:00.000-04:00
-layout: home
-# sidebar: false
-aside: false
+layout: doc
 ---
 # Route
 
@@ -13,11 +11,17 @@ Our route is ever evolving! Please [Contact Us](contact.md) if you would like to
 
 All times are approximate -- please be sure to have your bike with you and be ready for departure by the listed time or *earlier*.
 
-| Stop Name                  | Time        | WKT   (approx.)                  |
+| Stop Name                  | Time        | Description.                     |
 |----------------------------|-------------|----------------------------------|
-| Esteyville Common          | 8:45am      | POINT (-72.5685897 42.846294)    |
-| Covered Bridge             | 8:50        | POINT (-72.5859057 42.8498799)   |
-| Grassy spot on Western Ave | 8:05        | POINT (-72.5993353 42.852571)    |
+| Esteyville Common          | 7:45am      |                                  |
+| Covered Bridge             | 7:55am      |                                  |
+| Grassy spot on Western Ave | 8:05am      |                                  |
+| Academy School.            | 8:10am      |                                  |
+| Grassy spot on Western Ave | 8:15am      |                                  |
+| Covered Bridge             | 8:25am      |                                  |
+| Winston Prouty             | 8:35am      |                                  |
+| Esteyville Common          | 8:40am      |                                  |
+| BAMS                       | 8:50am      |                                  |
 
 <!-- Edit the map at: https://www.google.com/maps/d/u/1/edit?mid=1tSMu6BCBlPZJO_X3raS_DzfjOMYdIXw&usp=sharing -->
 <div id="mapContainer">
@@ -26,7 +30,7 @@ All times are approximate -- please be sure to have your bike with you and be re
 
 <style scoped>
   #mapContainer {
-    width: 70vw;
+    width: 100%;
     height: 70vh;
   }
 </style>

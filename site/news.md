@@ -1,6 +1,6 @@
 ---
 title: News
-layout: home
+layout: doc
 date: 2025-09-11T15:45:00.000-04:00
 ---
 # News
