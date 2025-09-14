@@ -58,15 +58,15 @@ const events = [
   {
     name: 'AM Bike Bus',
     description: 'This will be a morning ride only.',
-    start: '2025-09-19T07:45:00',
+    start: '2025-09-26T07:45:00',
     color: 'primary'
   },
   {
     name: 'AM Bike Bus',
     description: 'This will be a morning ride only.',
-    start: '2025-09-26T07:45:00',
+    start: '2025-10-03T07:45:00',
     color: 'primary'
-  }
+  },
 ]
 </script>
 
