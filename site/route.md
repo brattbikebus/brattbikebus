@@ -11,14 +11,14 @@ Our route is ever evolving! Please [Contact Us](contact.md) if you would like to
 
 All times are approximate -- please be sure to have your bike with you and be ready for departure by the listed time or *earlier*.
 
-| Stop Name                  | Time        | Description.                     |
-|----------------------------|-------------|----------------------------------|
-| Esteyville Common          | 7:45am      |                                  |
-| Covered Bridge             | 7:55am      |                                  |
-| Academy School.            | 8:10am      |                                  |
-| Covered Bridge             | 8:15am      |                                  |
-| Winston Prouty             | 8:25am      |                                  |
-| BAMS                       | 8:30am      |                                  |
+| Stop Name                    | Time        | Description.                     |
+|------------------------------|-------------|----------------------------------|
+| Esteyville Common            | 7:45am      |                                  |
+| Covered Bridge               | 7:55am      |                                  |
+| Academy School.              | 8:10am      |                                  |
+| Covered Bridge               | 8:15am      |                                  |
+| Winston Prouty/Garland School| 8:25am      |                                  |
+| BAMS                         | 8:30am      |                                  |
 
 <!-- Edit the map at: https://www.google.com/maps/d/u/1/edit?mid=1tSMu6BCBlPZJO_X3raS_DzfjOMYdIXw&usp=sharing -->
 <div id="mapContainer">
