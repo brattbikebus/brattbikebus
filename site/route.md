@@ -15,13 +15,10 @@ All times are approximate -- please be sure to have your bike with you and be re
 |----------------------------|-------------|----------------------------------|
 | Esteyville Common          | 7:45am      |                                  |
 | Covered Bridge             | 7:55am      |                                  |
-| Grassy spot on Western Ave | 8:05am      |                                  |
 | Academy School.            | 8:10am      |                                  |
-| Grassy spot on Western Ave | 8:15am      |                                  |
-| Covered Bridge             | 8:25am      |                                  |
-| Winston Prouty             | 8:35am      |                                  |
-| Esteyville Common          | 8:40am      |                                  |
-| BAMS                       | 8:50am      |                                  |
+| Covered Bridge             | 8:15am      |                                  |
+| Winston Prouty             | 8:25am      |                                  |
+| BAMS                       | 8:30am      |                                  |
 
 <!-- Edit the map at: https://www.google.com/maps/d/u/1/edit?mid=1tSMu6BCBlPZJO_X3raS_DzfjOMYdIXw&usp=sharing -->
 <div id="mapContainer">
