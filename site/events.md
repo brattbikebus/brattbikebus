@@ -2,6 +2,7 @@
 title: Events
 layout: doc
 ---
+
 # Events
 
 <div class="events-container">
@@ -44,22 +45,27 @@ const events = [
   {
     name: 'Team Meeting',
     description: 'Let\'s meet and talk',
-    start: '2025-09-15T09:00:00',
-    end: '2025-09-15T10:30:00',
-    color: 'primary'
-  },
-  {
-    name: 'Big Bike',
-    description: 'Let\'s do a big ride!',
-    start: '2025-09-20T13:00:00',
-    end: '2025-09-20T15:00:00',
+    start: '2025-09-15T12:00:00',
+    end: '2025-09-15T13:30:00',
     color: 'secondary'
   },
   {
-    name: 'Bike Bus',
-    description: 'Let\'s all ride to school!',
-    start: '2025-09-25T10:00:00',
-    color: 'info'
+    name: 'First AM Bike Bus!',
+    description: 'Let\'s all ride to school! This will be a morning ride only.',
+    start: '2025-09-19T07:45:00',
+    color: 'primary'
+  },
+  {
+    name: 'AM Bike Bus',
+    description: 'This will be a morning ride only.',
+    start: '2025-09-19T07:45:00',
+    color: 'primary'
+  },
+  {
+    name: 'AM Bike Bus',
+    description: 'This will be a morning ride only.',
+    start: '2025-09-26T07:45:00',
+    color: 'primary'
   }
 ]
 </script>
