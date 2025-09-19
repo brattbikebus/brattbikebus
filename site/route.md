@@ -7,6 +7,10 @@ layout: doc
 
 At this time, we are only biking from the covered bridge near Living Memorial Park to Academy School. Our route is ever evolving! Please [Contact Us](contact.md) if you would like to request an additional BikeBus stop near you! If we get interest from families at other schools, we would love to expand the route and try to make the timing work.
 
+## Registration
+
+We don't require formal registration. But if you intend to ride with us, please [Contact Us](contact.md) so that we know to look for you!
+
 ## Stops
 
 Times are approximate -- please be sure to have your bike with you and be ready for departure by the listed time.
