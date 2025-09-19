@@ -11,6 +11,7 @@ layout: doc
         :key="index"
         class="event-card my-4"
         :color="event.color"
+        variant="tonal"
     >
         <v-card-title class="text-h6 font-weight-bold">
             <v-icon class="mr-2">mdi-calendar</v-icon>
@@ -50,21 +51,9 @@ const events = [
     color: 'secondary'
   },
   {
-    name: 'First AM Bike Bus!',
-    description: 'Let\'s all ride to school! This will be a morning ride only.',
-    start: '2025-09-19T07:45:00',
-    color: 'primary'
-  },
-  {
-    name: 'AM Bike Bus',
-    description: 'This will be a morning ride only.',
-    start: '2025-09-26T07:45:00',
-    color: 'primary'
-  },
-  {
-    name: 'AM Bike Bus',
-    description: 'This will be a morning ride only.',
-    start: '2025-10-03T07:45:00',
+    name: 'First AM Bike Bus',
+    description: 'Let\'s all ride to school together!',
+    start: '2025-10-01T07:45:00',
     color: 'primary'
   },
 ]
@@ -75,6 +64,7 @@ const events = [
 .event-card {
   transition: transform 0.2s ease-in-out;
   border-left: 4px solid !important;
+  margin-bottom: 4px;
 }
 
 .event-card:hover {
