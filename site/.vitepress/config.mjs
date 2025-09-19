@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => {
     description: "A project to support a bike bus in Brattleboro, VT",
     // https://vitepress.dev/guide/deploy#setting-a-public-base-path
     // set the base for GitHub Pages
-    // base: env.VITE_APP_BASE || '/',
+    base: env.VITE_APP_BASE || '/',
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
        head: [
