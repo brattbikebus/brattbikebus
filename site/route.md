@@ -5,22 +5,18 @@ layout: doc
 ---
 # Route
 
-Our route is ever evolving! Please [Contact Us](contact.md) if you would like to request a new BikeBus stop near you! At this time, we are focusing on Academy School, but if we get interest from families at other schools, we would love to expand the route and try to make the timing work.
+At this time, we are only biking from the covered bridge near Living Memorial Park to Academy School. Our route is ever evolving! Please [Contact Us](contact.md) if you would like to request an additional BikeBus stop near you! If we get interest from families at other schools, we would love to expand the route and try to make the timing work.
 
 ## Stops
 
-All times are approximate -- please be sure to have your bike with you and be ready for departure by the listed time or *earlier*.
+Times are approximate -- please be sure to have your bike with you and be ready for departure by the listed time.
 
-| Stop Name                    | Time        | Description.                     |
-|------------------------------|-------------|----------------------------------|
-| Esteyville Common            | 7:45am      |                                  |
-| Covered Bridge               | 7:55am      |                                  |
-| Academy School.              | 8:10am      |                                  |
-| Covered Bridge               | 8:15am      |                                  |
-| Winston Prouty/Garland School| 8:25am      |                                  |
-| BAMS                         | 8:30am      |                                  |
+| Stop Name                    | Time        | Day         |
+|------------------------------|-------------|-------------|
+| Covered Bridge               | 7:55am      | Mon - Fri   |
+| Academy School.              | 8:05am      | Mon - Fri   |
 
-<!-- Edit the map at: https://www.google.com/maps/d/u/1/edit?mid=1tSMu6BCBlPZJO_X3raS_DzfjOMYdIXw&usp=sharing -->
+<!-- Edit the map at: https://www.google.com/maps/d/u/3/edit?mid=1b-Y9FSIReeo3WrwJKrR6pRbgAuKyKGY -->
 <div id="mapContainer">
     <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1b-Y9FSIReeo3WrwJKrR6pRbgAuKyKGY&ehbc=2E312F&noprof=1" width="100%" height="100%"></iframe>
 </div>
