@@ -56,6 +56,12 @@ const events = [
     start: '2025-10-01T07:45:00',
     color: 'primary'
   },
+  {
+    name: 'Walk/Bike to School Day!',
+    description: 'https://www.walkbiketoschool.org',
+    start: '2025-10-01',
+    color: 'secondary'
+  },
 ]
 </script>
 
