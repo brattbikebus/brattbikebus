@@ -20,3 +20,7 @@ https://www.npr.org/2025/10/18/nx-s1-5532087/why-some-parents-are-ditching-miniv
 ## Washington Post on Bike Buses:
 
 <https://www.washingtonpost.com/climate-environment/2024/06/04/bike-to-school-skip-the-car-line>
+
+## Think you need another car? Consider an e-bike instead.
+
+[https://www.washingtonpost.com/climate-environment/2023/10/17/electric-bikes-](<Think you need another car? Consider an e-bike instead.>)
