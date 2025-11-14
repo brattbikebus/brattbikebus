@@ -5,6 +5,12 @@ date: 2025-09-11T15:45:00.000-04:00
 ---
 # News
 
+# Parents on e-bikes are transforming the school run
+
+## They’re smug, snug and often faster than drivers
+
+https://www.economist.com/united-states/2025/11/13/parents-on-e-bikes-are-transforming-the-school-run
+
 # From a few to more than 350, children and parents ride together to school as a ‘bike bus’
 
 <https://apnews.com/article/bike-ride-to-school-children-families-9651e537894865aff2193bb45a5ce34e>
